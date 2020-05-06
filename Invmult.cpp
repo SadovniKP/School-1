@@ -24,6 +24,14 @@ int main() {
             }
         }
     }
+    if (N1 != N2) {
+        cout << "NO";
+    }
+        
+    if (M1 != M2) {
+        cout << "NO";
+    }
+    
     for (i = 0; i < N1; i++) {
         for (j = 0; j < M1; j++) {
             cout << X[i][j] << endl;
