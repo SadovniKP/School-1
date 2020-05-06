@@ -1,2 +1,2 @@
 # School
-Don’t bother analysing this program thoroughly, it’s just homework.
+Don’t bother analysing these programs thoroughly, it’s just homework.
